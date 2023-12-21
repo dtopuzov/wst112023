@@ -1,3 +1,5 @@
+[![CI](https://github.com/dtopuzov/wst112023/actions/workflows/ci.yml/badge.svg)](https://github.com/dtopuzov/wst112023/actions/workflows/ci.yml)
+
 # Unified Functional Testing Framework (API, Web, Mobile)
 
 ## Preconditions for test execution
